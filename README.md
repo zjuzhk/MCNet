@@ -1,6 +1,3 @@
-Here's the refined English README based on your paper and requirements:
-
----
 
 # CVPR2024 - MCNet: Rethinking the Core Ingredients for Accurate and Efficient Homography Estimation
 
