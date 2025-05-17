@@ -39,7 +39,6 @@ def test(args, glob_iter=None, homo_model=None):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--mode', type=str, default='test', help='Train or test', choices=['train', 'test'])
     parser.add_argument('--gpuid', type=int, default=1)
     parser.add_argument('--note', type=str, default='', help='experiment notes')
     parser.add_argument('--dataset', type=str, default='mscoco', help='dataset')
