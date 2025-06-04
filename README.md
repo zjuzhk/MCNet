@@ -74,7 +74,7 @@ python train.py --gpuid 0 --dataset mscoco --batch_size 16
 python test.py \
     --gpuid 0 \
     --dataset mscoco \
-    --checkpoints ./weights/mscoco.pth
+    --checkpoint ./weights/mscoco.pth
 ```
 
 ### Pretrained Weights
