@@ -104,17 +104,16 @@ python test.py \
 <p align="left">
 <img src="assets/Evaluation.jpg" width="600"/>
 </p>
-
+<!--
 ### Feature Map Comparison For Dynamic Scenes
 <p align="left">
 <img src="assets/Feature_spid.jpg" width="400"/>
 </p>
-
 ### Estimated Homography Comparison (SPID for reference)
 <p align="left">
 <img src="assets/SPID_vis.jpg" width="600"/>
 </p>
-
+-->
 
 ## 📚 Citation
 
