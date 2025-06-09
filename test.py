@@ -48,7 +48,7 @@ def main():
     parser.add_argument('--batch_size', type=int, default=16) 
     parser.add_argument('--print_freq', type=int, default=100)
     parser.add_argument('--val_freq', type=int, default=10000)
-    parser.add_argument('--seed', type=int, default=512)
+    parser.add_argument('--seed', type=int, default=1024)
     parser.add_argument('--num_steps', type=int, default=120000)
     parser.add_argument('--lr', type=float, default=4e-4, help='Max learning rate')
     parser.add_argument('--log_full_dir', type=str)
